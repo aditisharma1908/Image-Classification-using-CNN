@@ -1,2 +1,2 @@
 # Image-Classification-using-CNN
-used to classifiedthe images 
+used to classified the images 
